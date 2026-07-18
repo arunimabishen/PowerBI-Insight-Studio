@@ -1,13 +1,13 @@
 # Power BI Micro Projects Repository
 
-Welcome to my **Power BI Visual Lab** 🚀
+Welcome to my **Power BI Visual Lab** 
 This repository is a collection of **small, focused Power BI projects** where I experiment with unique visualizations, storytelling techniques, and data transformations.
 
 Instead of large dashboards, this repo focuses on **micro-projects** — each solving a specific visualization or analytics challenge.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 * Practice and master **Power BI features**
 * Build **unique and creative visualizations**
