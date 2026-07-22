@@ -16,29 +16,29 @@ Instead of large dashboards, this repo focuses on **micro-projects** — each so
 
 ---
 
-## 📂 What You'll Find Here
+## What You'll Find Here
 
 Each folder contains:
 
-* 📁 `.pbix` file (Power BI dashboard)
-* 📊 Dataset used
-* 📝 Explanation of the visualization
-* 💡 Key learnings
+*  `.pbix` file (Power BI dashboard)
+*  Dataset used
+*  Explanation of the visualization
+*  Key learnings
 
 ---
 
-## 🧠 Visual Experiments Included
+## Visual Experiments Included
 
-* 🔹 Serpentine Timeline
-* 🔹 Dynamic KPI Cards
-* 🔹 Interactive Drill-through Reports
-* 🔹 Custom Tooltip Visualizations
-* 🔹 Animated Trend Analysis
-* 🔹 What-if Parameter Simulations
+*  Serpentine Timeline
+*  Dynamic KPI Cards
+*  Interactive Drill-through Reports
+*  Custom Tooltip Visualizations
+*  Animated Trend Analysis
+*  What-if Parameter Simulations
 
 ---
 
-## 🌟 Highlight: Why This Repo is Different
+## Highlight: Why This Repo is Different
 
 Most portfolios show dashboards.
 This repository shows **how I think with data**.
@@ -51,7 +51,7 @@ Each project focuses on:
 
 ---
 
-## 🛠 Tools & Skills Used
+## Tools & Skills Used
 
 * Power BI
 * DAX
@@ -62,16 +62,15 @@ Each project focuses on:
 
 ---
 
-## 🚧 Work in Progress
+## Work in Progress
 
 This repository is continuously updated as I learn new techniques and build new visualizations.
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 If you like this work or want to collaborate, feel free to reach out!
 
 ---
 
-⭐ If you find this helpful, consider giving it a star!
