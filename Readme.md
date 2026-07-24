@@ -29,7 +29,7 @@ Each folder contains:
 
 ## Visual Experiments Included
 
-*  Serpentine Timeline
+*  Serpentine Timeline 
 *  Dynamic KPI Cards
 *  Interactive Drill-through Reports
 *  Custom Tooltip Visualizations
